@@ -54,10 +54,14 @@ Upon launching the application, the primary workflow involves registering indivi
  
 ## Project Snapshots:
 
-*   **Simple UI:** [Insert path to your Simple UI image here, e.g., `UI_Image/simple_ui.png`]
-*   **While taking Image:** [Insert path to your Image Capture image here, e.g., `UI_Image/taking_image.png`]
-*   **While taking Attendance:** [Insert path to your Attendance Taking image here, e.g., `UI_Image/taking_attendance.png`]
-*   **Attendance in tabular format:** [Insert path to your Tabular Attendance image here, e.g., `UI_Image/attendance_table.png`]
+*   **Simple UI:**
+*   ![Simple UI](UI_Image/simple_ui.png) 
+*   **While taking Image:**
+*    ![While taking Image](UI_Image/simple_ui.png) 
+*   **While taking Attendance:**
+*    ![While taking Attendance](UI_Image/simple_ui.png) 
+*   **Attendance in tabular format:**
+*    ![Attendance in tabular format](UI_Image/simple_ui.png) 
 
  
 
