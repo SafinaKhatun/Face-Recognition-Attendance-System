@@ -63,7 +63,7 @@ Start the main application using the primary Python file:
 python attendance.py
 ```
 
-## Core Workflow
+## ➡️ Core Workflow
 1. **Register:** Use the "Register new student" option to enter the student's Enrollment Number and Name, and capture face samples (typically 50+ images).
 
 2. **Train:** Click "Train Image" to train the facial recognition model using the new images. This step is mandatory after any new registration.
@@ -86,16 +86,23 @@ python attendance.py
 
  
 
-## Project Snapshots:
+## 📸 Project Snapshots:
 
 *   **Simple UI:**
-*   ![Simple UI](UI_Image/simple_ui.png) 
-*   **While taking Image:**
-*    ![While taking Image](UI_Image/simple_ui.png) 
-*   **While taking Attendance:**
-*    ![While taking Attendance](UI_Image/simple_ui.png) 
-*   **Attendance in tabular format:**
-*    ![Attendance in tabular format](UI_Image/simple_ui.png) 
+
+![Simple UI](UI_Image/BioTrack1.png)
+
+*   **Register New Student:**
+
+![Register New Student](UI_Image/BioTrack2.png)
+
+*   **Take Attendance:**
+
+![Take Attendance](UI_Image/BioTrack3.png)
+
+*   **View Attendance:**
+
+![View Attendance](UI_Image/BioTrack4.png) 
 
  
 
